@@ -1,5 +1,5 @@
 package nasir.a3;
-
+//lab three
 import java.util.Scanner;
 
 public class Exercise2 {
